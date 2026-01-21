@@ -1,6 +1,7 @@
 from functions import get_todos, write_todos, get_help
 import time
 
+
 todos = []
 print('Welcome to todo_app!')
 

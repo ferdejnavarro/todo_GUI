@@ -20,7 +20,8 @@ def get_help():
         COMMANDS\n
     -add: Type "add" followed by the todo you want to add to your list, for example: add walk with dog   
     -show: Type "show" to see your current todo list
-    -complete: Type "complete" followed by its todo number to eliminate a todo from the list, if you need to see your todo list, please type "complete".            -edit: Type "edit" followed by the todo number to edit. If you need to see your todo list, please type "show", then "edit" and then you will be asked to type your new todo
+    -complete: Type "complete" followed by its todo number to eliminate a todo from the list, if you need to see your todo list, please type "complete".            
+    -edit: Type "edit" followed by the todo number to edit. If you need to see your todo list, please type "show", then "edit" and then you will be asked to type your new todo
     -clear: Type clear to eliminate your whole todo list.
     -exit: Type "exit" to exit the program."""
 
